@@ -11,7 +11,7 @@
 Este módulo foi testado **apenas** no seguinte ambiente:
 
 * **ROM:** HyperOS 3 (China Port)
-* **Android:** 14
+* **Android:** 15
 * **Kernel:** Stock (original da ROM, não modificado)
 * **Root:** KernelSU
 
